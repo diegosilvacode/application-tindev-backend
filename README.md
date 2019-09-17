@@ -38,6 +38,10 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 > To allow the backend application to be accessed from any address (in this case, to be accessed by the frontend).
 
+#### Dotenv
+
+> To load environment variables form the `.env` file.
+
 #### Express
 
 > To better handle application routes.
