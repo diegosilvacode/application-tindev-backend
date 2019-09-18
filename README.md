@@ -6,6 +6,10 @@ This project contains the entire backend of the **[codefolio-tindev-frontend](ht
 
 The **codefolio-tindev-frontend** project was create with [Create React App](https://facebook.github.io/create-react-app/). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Prerequisites
+
+To run this project in development mode, you will need to have a basic environment with [NodeJS 8+](https://nodejs.org/en/) installed. To use the database, you will need to have [MongoDB](https://www.mongodb.com/) installed and running on your machine on the default port (27017).
+
 ## Avaliable Scripts
 
 ### Run Project
