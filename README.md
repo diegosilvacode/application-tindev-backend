@@ -1,10 +1,10 @@
-# codefolio | TINDEV-BACKEND
+# application | TINDEV - BACKEND
 
 ## About This Project
 
-This project contains the entire backend of the **[codefolio-tindev-frontend](https://github.com/coderamos/codefolio-tindev-frontend)** application. Match other developers.
+This project contains the entire backend of the **[application-tindev-frontend](https://github.com/coderamos/application-tindev-frontend)** application. Match other developers.
 
-The **codefolio-tindev-frontend** project was create with [Create React App](https://facebook.github.io/create-react-app/). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
+The **application-tindev-frontend** project was create with [Create React App](https://facebook.github.io/create-react-app/). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started). To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Prerequisites
 
